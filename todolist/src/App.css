@@ -1,0 +1,54 @@
+.done {
+    color: black;
+    text-decoration: line-through;
+}
+    
+.id,h3,#id{
+  display: flex;
+  justify-content: center;
+}
+#input{
+  width: 190px;
+  height: 22px;
+  background-color:  rgb(171, 171, 245);
+  border: 2px solid black;
+  margin-right: 10px;
+}
+
+.button button{
+  height: 28px;
+  background-color:  rgb(231, 143, 212);
+  border: 2px solid black;
+  color : black;
+}
+.button1{
+  margin: 6px;
+}
+ul li {
+  list-style: none;
+}
+
+.div1 {
+  text-align: center;
+}
+
+body{
+  background-color: rgb(171, 171, 245);
+}
+
+button{
+  background-color: rgb(231, 143, 212);
+  margin: 4px;
+}
+
+input{
+  background-color: rgb(171, 171, 245);
+}
+
+#myCheck{
+  transform:scale(1.72);
+  margin-right: 10px;
+  margin-top: 5px;
+  border: 2px solid black;
+
+}
